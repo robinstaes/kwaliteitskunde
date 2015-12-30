@@ -9,3 +9,7 @@ C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\O
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\Bank\bin\Debug\Bank.pdb
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\Bank\obj\Debug\Bank.dll
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\Bank\obj\Debug\Bank.pdb
+D:\Documents\kwal\kwaliteitskunde\Bank\Bank\bin\Debug\Bank.dll
+D:\Documents\kwal\kwaliteitskunde\Bank\Bank\bin\Debug\Bank.pdb
+D:\Documents\kwal\kwaliteitskunde\Bank\Bank\obj\Debug\Bank.dll
+D:\Documents\kwal\kwaliteitskunde\Bank\Bank\obj\Debug\Bank.pdb

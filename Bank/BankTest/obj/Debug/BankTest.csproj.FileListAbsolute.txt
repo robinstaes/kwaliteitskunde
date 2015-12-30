@@ -14,3 +14,11 @@ C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\O
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\BankTest\obj\Debug\BankTest.dll
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\BankTest\obj\Debug\BankTest.pdb
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\bin\Debug\BankTest.dll
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\bin\Debug\BankTest.pdb
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\bin\Debug\Bank.dll
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\bin\Debug\Bank.pdb
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\obj\Debug\BankTest.dll
+D:\Documents\kwal\kwaliteitskunde\Bank\BankTest\obj\Debug\BankTest.pdb
