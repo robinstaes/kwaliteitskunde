@@ -13,3 +13,4 @@ D:\Documents\kwal\kwaliteitskunde\Bank\Bank\bin\Debug\Bank.dll
 D:\Documents\kwal\kwaliteitskunde\Bank\Bank\bin\Debug\Bank.pdb
 D:\Documents\kwal\kwaliteitskunde\Bank\Bank\obj\Debug\Bank.dll
 D:\Documents\kwal\kwaliteitskunde\Bank\Bank\obj\Debug\Bank.pdb
+D:\Documents\kwal\kwaliteitskunde\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
